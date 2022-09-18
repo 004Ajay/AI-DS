@@ -13,8 +13,11 @@
  width=150" height="70">
 | ---------- | ---------- |
 
+<div> <p align="center">
 
 [<img src="https://img.icons8.com/color/480/000000/c-programming.png" title = "C" height='200'>](https://www.google.com/search?q=c+programming&rlz=1C1CHBF_enIN998IN998&oq=C+Programming&aqs=chrome.0.35i39j0i20i263i512j0i131i433i512j0i20i263i512j0i131i433i512j69i60j69i65j69i60.5289j0j7&sourceid=chrome&ie=UTF-8)[<img src='https://img.icons8.com/color/480/000000/python--v1.png' title = "Python" height='200'>](https://www.google.com/search?q=Python&rlz=1C1CHBF_enIN998IN998&oq=Python&aqs=chrome..69i57j69i59l2j69i60j69i65j69i60l2j69i65.5263j0j7&sourceid=chrome&ie=UTF-8)
+
+</p> </div>
 
 
 
