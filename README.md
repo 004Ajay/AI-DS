@@ -5,7 +5,10 @@
 </div>
 
 # Artificial Intelligence & Data Science
-Python is a high-level, interpreted, general-purpose programming language. with easy code readability achieved by use of significant indentations.
+
+Artificial intelligence: The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.
+
+Data science: A field that uses scientific & computing methods to extract or extrapolate knowledge and insights from noisy, structured and unstructured data.
 
 ---
 
