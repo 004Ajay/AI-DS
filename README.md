@@ -48,6 +48,7 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 [Random Forest](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/blob/main/Incomplete/RandomForest.py)
 
+<br>
 
 ## Programs
 
@@ -68,52 +69,3 @@ Data science: A field that uses scientific & computing methods to extract or ext
 ---
 
 <!-- ======================================================================================================= -->
-
-
-# Python Tips
-
-* To accept multiple inputs as list in one line
-
-        input_var_name,  input_var_name = list(map(int,input().split()))
-
-* To print in a more readable way (f-strings)
-
-        print(f"write something")
-
-* To open files and close it without writing file.close() explicitly
-
-        with open("<FileName>", '<mode>') as <variable_name>:
-
-* To print some digits after decimal point
-
-        print(round(<var_name>, <no_of_digits_after_dp>))
-
-* To return more than one value from a function
-
-        return <value1>, <value2>
-
-
-
-# Python PIP Tips
-
-* To install packages
-
-        pip install <package_name>
-
-* To uninstall packages
-
-        pip uninstall <package_name>
-
-* To update/upgrade packages
-
-        pip install --upgrade <package_name> 
-        OR
-        pip install -U <package_name>
-
-* To see list of installed python packages
-
-        pip list
-
-* To see outdated packages in your system
-
-        pip list -o
