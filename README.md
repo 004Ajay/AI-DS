@@ -1,7 +1,36 @@
-[<p align="center">
-<img src="https://img.icons8.com/color/480/000000/python--v1.png" title = "Python" height='200'></p>](https://www.google.com/search?q=python&rlz=1C1CHBF_enIN998IN998&oq=python&aqs=chrome..69i57j69i59l2j69i60j69i65j69i60l2j69i65.3593j0j4&sourceid=chrome&ie=UTF-8)
+<p align="center"> <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70"> </p>
 
-# Artificial Inteeligence & Data Science
+<p align="center"> <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70"> </p>
+
+| <a href="https://www.qries.com/">
+ <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+ width=150" height="70"> | <a href="https://www.qries.com/">
+ <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+ width=150" height="70">
+| ---------- | ---------- |
+
+
+| |  [<img src="https://img.icons8.com/color/480/000000/c-programming.png" title = "C" height='200'>](https://www.google.com/search?q=c+programming&rlz=1C1CHBF_enIN998IN998&oq=C+Programming&aqs=chrome.0.35i39j0i20i263i512j0i131i433i512j0i20i263i512j0i131i433i512j69i60j69i65j69i60.5289j0j7&sourceid=chrome&ie=UTF-8) | [<img src='https://img.icons8.com/color/480/000000/python--v1.png' title = "Python" height='200'>](https://www.google.com/search?q=Python&rlz=1C1CHBF_enIN998IN998&oq=Python&aqs=chrome..69i57j69i59l2j69i60j69i65j69i60l2j69i65.5263j0j7&sourceid=chrome&ie=UTF-8)
+| :---------: | ---------- | ---------- |
+
+
+
+[<p align="center">
+<img src="https://img.icons8.com/wired/256/000000/artificial-intelligence.png" title = "Artificial Intelligence" height='200'> <a href="https://www.w3schools.com"></a> </p>](https://www.google.com/search?q=artificial+intelligence+and+data+science&rlz=1C1CHBF_enIN998IN998&oq=Artificial+Intelligence+and+Data+Science&aqs=chrome.0.35i39j0i512j46i512j0i512l6j0i457i512.632j0j7&sourceid=chrome&ie=UTF-8)
+
+[<p align="center">
+<img src="https://img.icons8.com/carbon-copy/100/000000/mind-map.png" title = "Data Science" height='200'> </p>](https://www.google.com/search?q=artificial+intelligence+and+data+science&rlz=1C1CHBF_enIN998IN998&oq=Artificial+Intelligence+and+Data+Science&aqs=chrome.0.35i39j0i512j46i512j0i512l6j0i457i512.632j0j7&sourceid=chrome&ie=UTF-8)
+
+
+https://www.google.com/search?q=artificial+intelligence&rlz=1C1CHBF_enIN998IN998&oq=Artificial+Intelligence&aqs=chrome.0.35i39l2j69i59j0i67j69i60l2j69i65j69i60.360j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=data+science&rlz=1C1CHBF_enIN998IN998&oq=Data+science&aqs=chrome.0.35i39j69i59j0i131i433i512j0i512l2j69i60l3.488j0j7&sourceid=chrome&ie=UTF-8
+
+# Artificial Intelligence & Data Science
 Python is a high-level, interpreted, general-purpose programming language. with easy code readability achieved by use of significant indentations.
 
 ---
