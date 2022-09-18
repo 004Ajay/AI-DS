@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://img.icons8.com/wired/256/000000/artificial-intelligence.png" title = "Artificial Intelligence" height='200'>](https://www.google.com/search?q=artificial+intelligence&rlz=1C1CHBF_enIN998IN998&oq=Artificial+Intelligence&aqs=chrome.0.35i39l2j69i59j0i67j69i60l2j69i65j69i60.360j0j7&sourceid=chrome&ie=UTF-8)[<img src="https://img.icons8.com/carbon-copy/100/000000/mind-map.png" title = "Data Science" height='200'>](https://www.google.com/search?q=data+science&rlz=1C1CHBF_enIN998IN998&oq=Data+science&aqs=chrome.0.35i39j69i59j0i131i433i512j0i512l2j69i60l3.488j0j7&sourceid=chrome&ie=UTF-8)
+[<img src="https://img.icons8.com/cotton/256/000000/brain-3.png" title = "Artificial Intelligence" height='200'>](https://www.google.com/search?q=artificial+intelligence&rlz=1C1CHBF_enIN998IN998&oq=Artificial+Intelligence&aqs=chrome.0.35i39l2j69i59j0i67j69i60l2j69i65j69i60.360j0j7&sourceid=chrome&ie=UTF-8)[<img src="https://img.icons8.com/fluency/256/000000/mind-map.png" title = "Data Science" height='200'>](https://www.google.com/search?q=data+science&rlz=1C1CHBF_enIN998IN998&oq=Data+science&aqs=chrome.0.35i39j69i59j0i131i433i512j0i512l2j69i60l3.488j0j7&sourceid=chrome&ie=UTF-8)
 
 </div>
 
