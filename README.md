@@ -24,29 +24,33 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 ## Folders
 
-[Incomplete Programs](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/tree/main/Incomplete)
+[Incomplete Programs](https://github.com/004Ajay/AI-DS/tree/main/Incomplete)
 
-[Programs](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/tree/main/Programs)
+[Programs](https://github.com/004Ajay/AI-DS/tree/main/Programs)
 
-[Personal](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/tree/main/Personal)
+[Personal](https://github.com/004Ajay/AI-DS/tree/main/Personal)
 
-[Other Programs](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/tree/main/OTHER%20PROGRAMS)
+[Other Programs](https://github.com/004Ajay/AI-DS/tree/main/OTHER%20PROGRAMS)
+
+---
 
 <br>
 
-### Incomplete Programs
+## Incomplete Programs
 
-[Decision Tree](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/blob/main/Incomplete/DecisionTree.py)
+[Decision Tree](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/DecisionTree.py)
 
-[KNN](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/blob/main/Incomplete/KNN.py)
+[KNN](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/KNN.py)
 
-[Linear Regression](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/blob/main/Incomplete/LinearRegression.py)
+[Linear Regression](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/LinearRegression.py)
 
-[Logistic Regression](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/blob/main/Incomplete/LogisticRegression.py)
+[Logistic Regression](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/LogisticRegression.py)
 
-[Naie Bayes](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/blob/main/Incomplete/NaiveBayes.py)
+[Naie Bayes](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/NaiveBayes.py)
 
-[Random Forest](https://github.com/004Ajay/Artificial-Intelligence-Data-Science/blob/main/Incomplete/RandomForest.py)
+[Random Forest](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/RandomForest.py)
+
+---
 
 <br>
 
@@ -55,6 +59,8 @@ Data science: A field that uses scientific & computing methods to extract or ext
 ### Basics
 
 ### Intermediate
+
+### Advanced
 
 ---
 
