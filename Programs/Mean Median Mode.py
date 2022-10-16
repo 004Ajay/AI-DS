@@ -109,5 +109,51 @@ print("Percentile:", mean)
 # In[ ]:
 
 
+"""
+USING LIBRARY FUNCTION
 
+import statistics as st # mean, median, mode
+import numpy as np # standard deviation, percentile
+import matplotlib.pyplot as plt # data distributions
+
+data = [1,2,3,4,5]
+
+#mean
+print("Mean: ", st.mean(data))
+
+#median
+print("Median: ", st.median(data))
+
+#mode
+print("Mode: ", st.mode(data))
+
+#standard deviation
+print("Standard Deviation: ", np.std(data))
+
+#percentile
+print("Percentile: ", np.percentile(data, 50))
+
+# ---------------------------------------------------------------------------------- #
+
+#uniform distribution
+uniform_data = np.random.uniform(0,1,10000)
+plt.hist(uniform_data)
+plt.show()
+
+#normal distribution
+normal_data = np.random.normal(0,1,10000)
+plt.hist(normal_data)
+plt.show()
+
+#binomial distribution
+binomial_data = np.random.binomial(1,0.5,10000)
+plt.hist(binomial_data)
+plt.show()
+
+#poisson distribution
+poisson_data = np.random.poisson(1,10000)
+plt.hist(poisson_data)
+plt.show()
+
+"""
 
