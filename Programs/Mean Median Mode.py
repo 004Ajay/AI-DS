@@ -1,4 +1,4 @@
-import math
+import math # For square root
 
 data = [9, 10, 12, 13, 13, 13, 15, 15, 15, 15, 16, 16, 18, 22, 23, 24, 24, 25]
 leng = len(data)
