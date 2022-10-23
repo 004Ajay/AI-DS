@@ -59,39 +59,34 @@ import statistics as st # mean, median, mode
 import numpy as np # standard deviation, percentile
 import matplotlib.pyplot as plt # data distributions
 
-#mean
-print("Mean: ", st.mean(data))
+print("Mean: ", st.mean(data)) # Mean
 
-#median
-print("Median: ", st.median(data))
+print("Median: ", st.median(data)) # Median
 
-#mode
-print("Mode: ", st.mode(data))
+print("Mode: ", st.mode(data)) # Mode
 
-#standard deviation
-print("Standard Deviation: ", np.std(data))
+print("Standard Deviation: ", np.std(data)) # Standard Deviation
 
-#percentile
-print("Percentile: ", np.percentile(data, 50))
+print("Percentile: ", np.percentile(data, 50)) # Percentile
 
 # ---------------------------------------------------------------------------------- #
 
-#uniform distribution
+# Uniform Distribution
 uniform_data = np.random.uniform(0,1,10000)
 plt.hist(uniform_data)
 plt.show()
 
-#normal distribution
+# Normal Distribution
 normal_data = np.random.normal(0,1,10000)
 plt.hist(normal_data)
 plt.show()
 
-#binomial distribution
+# Binomial Distribution
 binomial_data = np.random.binomial(1,0.5,10000)
 plt.hist(binomial_data)
 plt.show()
 
-#poisson distribution
+# Poisson Distribution
 poisson_data = np.random.poisson(1,10000)
 plt.hist(poisson_data)
 plt.show()
