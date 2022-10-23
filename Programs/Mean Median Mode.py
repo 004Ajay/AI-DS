@@ -41,13 +41,8 @@ print("Mode:", key_list[pos]) # print key with max value
 # Standard Deviation
 # SD = sqrt[( sigma(Xi - X_bar) ^ 2) / length]
 
-sq = []
-
-for i in data:
-    sq.append((i-mean)**2)
-    
-ins_sqrt = sum(sq)/leng
-sd = math.sqrt(ins_sqrt)
+sq = [(i-mean)**2 for i in data]
+sd = math.sqrt(sum(sq)/leng)
 print("Standrad Deviation:", round(sd, 4))
 
 # ----------------------------------------------------------------------------------- #
