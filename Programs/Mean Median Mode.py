@@ -16,9 +16,10 @@ _sorted = sorted(data)
 if leng % 2 == 0: # if length of dataset is an even number
     loc1 = int(leng/2)
     loc2 = int((leng/2)+1)
-    print("Median:", loc1, "&", loc2)
+    med = (data[loc1] + data[loc2]) / 2
+    print("Median:", med)
 else: # if length of dataset is an odd number
-    loc = int((count+1)/2)
+    loc = int((leng+1)/2)
     print("Median: ", _sorted[loc])
 
 # ----------------------------------------------------------------------------------- #
@@ -38,7 +39,7 @@ print("Mode:", key_list[pos]) # print key with max value
 # ----------------------------------------------------------------------------------- #
 
 # Standard Deviation
-# SD = 
+# SD = sqrt[( sigma(Xi - X_bar) ^ 2) / length]
 
 sq = []
 
@@ -52,14 +53,11 @@ print("Standrad Deviation:", round(sd, 4))
 # ----------------------------------------------------------------------------------- #
 # ----------------------------------------------------------------------------------- #
 
-"""
-USING LIBRARY FUNCTION
+# USING LIBRARY FUNCTION
 
 import statistics as st # mean, median, mode
 import numpy as np # standard deviation, percentile
 import matplotlib.pyplot as plt # data distributions
-
-data = [1,2,3,4,5]
 
 #mean
 print("Mean: ", st.mean(data))
@@ -97,6 +95,3 @@ plt.show()
 poisson_data = np.random.poisson(1,10000)
 plt.hist(poisson_data)
 plt.show()
-
-"""
-
