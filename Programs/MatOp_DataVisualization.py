@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pandas as pd
+import pandas as pds
 
 mat = np.array([[1, 2, 3],
                    [4, 5, 6],
@@ -33,3 +33,6 @@ plt.show()
 
 # ---------------------------------------------------------------------------------- #
 
+df = pd.read_csv('book.csv')
+
+df.info()
