@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pandas as pds
+import pandas as pd
 
 mat = np.array([[1, 2, 3],
                    [4, 5, 6],
