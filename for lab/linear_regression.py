@@ -13,12 +13,10 @@ y = df.loc[:, 'hair_length']
 
 slope, intercept, r, p, std_err = stats.linregress(x, y)
 
-# model = list(map(y_val, x)) # maps each values in x to find the corresponding y values
 model = []
 for i in x:
     model.append(y_val(i))
 
-# print(model) 
 plt.scatter(x, y, color = 'red')
 plt.plot(x, model)
 plt.show()
