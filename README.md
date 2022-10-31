@@ -34,7 +34,42 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 ---
 
+
+---
+
 <br>
+
+## Programs
+
+### Basics
+
+* [Statistical Measures (Program 1)](https://github.com/004Ajay/AI-DS/tree/main/Programs/MeanMedianMode.py)
+
+* [Matrix Operation & DataVisualization](https://github.com/004Ajay/AI-DS/tree/main/Programs/MatOp_DataVisualization.py)
+
+* [CSV Reordering](https://github.com/004Ajay/AI-DS/tree/main/Programs/CSV_Reordering.py)
+
+
+
+<br>
+
+### Intermediate
+
+* [Linear Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/linear_regression.py)
+
+* [Logistic Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/logistic_regression.py)
+
+
+
+<br>
+
+### Advanced
+
+---
+
+
+<br>
+
 
 ## Incomplete Programs
 
@@ -50,22 +85,10 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 [Random Forest](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/RandomForest.py)
 
----
-
-<br>
-
-## Programs
-
-### Basics
-
-### Intermediate
-
-### Advanced
-
----
 
 <!-- ======================================================================================================= -->
 
+<!-- 
 <br>
 
 ## Personal Works
@@ -73,5 +96,7 @@ Data science: A field that uses scientific & computing methods to extract or ext
 ### Other Programs
 
 ---
+
+ -->
 
 <!-- ======================================================================================================= -->
