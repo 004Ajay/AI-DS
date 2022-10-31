@@ -21,7 +21,7 @@ plt.scatter(x, y, color = 'red')
 plt.plot(x, model)
 plt.show()
 
-test_set = df.loc[:, 'test_height']
+test_set = df.loc[:, 'test_height'] # locating 'test_height' column from 'height_hair.csv'
 
 print("Predictions:\n\ntest heights\tpredicted hair length")
 for i in range(5):
