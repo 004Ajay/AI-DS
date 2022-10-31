@@ -68,10 +68,6 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 [KNN](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/KNN.py)
 
-[Linear Regression](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/LinearRegression.py)
-
-[Logistic Regression](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/LogisticRegression.py)
-
 [Naie Bayes](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/NaiveBayes.py)
 
 [Random Forest](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/RandomForest.py)
