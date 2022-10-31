@@ -14,12 +14,6 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 <!-- ======================================================================================================= -->
 
-<!--
-
-<p align="center"> <h3> Click drop down for direct links to programs. </h3> </p> 
-
--->
-
 <br>
 
 ## Folders
@@ -31,9 +25,6 @@ Data science: A field that uses scientific & computing methods to extract or ext
 [Personal](https://github.com/004Ajay/AI-DS/tree/main/Personal)
 
 [Other Programs](https://github.com/004Ajay/AI-DS/tree/main/OTHER%20PROGRAMS)
-
----
-
 
 ---
 
