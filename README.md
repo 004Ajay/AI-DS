@@ -50,6 +50,8 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 * [Logistic Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/logistic_regression.py)
 
+* [KNN](https://github.com/004Ajay/AI-DS/tree/main/Programs/knn.py)
+
 
 
 <br>
@@ -65,8 +67,6 @@ Data science: A field that uses scientific & computing methods to extract or ext
 ## Incomplete Programs
 
 [Decision Tree](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/DecisionTree.py)
-
-[KNN](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/KNN.py)
 
 [Naie Bayes](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/NaiveBayes.py)
 
