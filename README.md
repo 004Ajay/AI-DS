@@ -52,6 +52,8 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 * [KNN](https://github.com/004Ajay/AI-DS/tree/main/Programs/knn.py)
 
+* [Naive Bayes](https://github.com/004Ajay/AI-DS/tree/main/Programs/NaiveBayes.py)
+
 
 
 <br>
