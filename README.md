@@ -46,6 +46,8 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 ### Intermediate
 
+* [Decision Tree](https://github.com/004Ajay/AI-DS/tree/main/Programs/DecisionTree.py)
+
 * [Linear Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/linear_regression.py)
 
 * [Logistic Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/logistic_regression.py)
@@ -54,12 +56,6 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 * [Naive Bayes](https://github.com/004Ajay/AI-DS/tree/main/Programs/NaiveBayes.py)
 
-
-
-<br>
-
-### Advanced
-
 ---
 
 
@@ -67,10 +63,6 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 
 ## Incomplete Programs
-
-[Decision Tree](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/DecisionTree.py)
-
-[Naie Bayes](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/NaiveBayes.py)
 
 [Random Forest](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/RandomForest.py)
 
