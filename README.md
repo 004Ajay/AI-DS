@@ -58,15 +58,6 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 ---
 
-
-<br>
-
-
-## Incomplete Programs
-
-[Random Forest](https://github.com/004Ajay/AI-DS/blob/main/Incomplete/RandomForest.py)
-
-
 <!-- ======================================================================================================= -->
 
 <!-- 
