@@ -56,6 +56,8 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 * [Naive Bayes](https://github.com/004Ajay/AI-DS/tree/main/Programs/NaiveBayes.py)
 
+* [Support Vector Machine (SVM)](https://github.com/004Ajay/AI-DS/tree/main/Programs/SVM.py)
+
 ---
 
 <!-- ======================================================================================================= -->
