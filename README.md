@@ -14,13 +14,11 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 <!-- ======================================================================================================= -->
 
+[Lab Experiments](https://github.com/004Ajay/AI-DS/tree/main/AI%20Lab%20Experiments)
+
 <br>
 
 ## Folders
-
-[Incomplete Programs](https://github.com/004Ajay/AI-DS/tree/main/Incomplete)
-
-[Programs](https://github.com/004Ajay/AI-DS/tree/main/Programs)
 
 [Personal](https://github.com/004Ajay/AI-DS/tree/main/Personal)
 
