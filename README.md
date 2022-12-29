@@ -46,6 +46,8 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 * [Decision Tree](https://github.com/004Ajay/AI-DS/tree/main/Programs/DecisionTree.py)
 
+* [Hill Climbing Algorithm](https://github.com/004Ajay/AI-DS/tree/main/Programs/HillClimbingAlgo.py)
+
 * [Linear Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/linear_regression.py)
 
 * [Logistic Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/logistic_regression.py)
@@ -53,6 +55,8 @@ Data science: A field that uses scientific & computing methods to extract or ext
 * [KNN](https://github.com/004Ajay/AI-DS/tree/main/Programs/knn.py)
 
 * [Naive Bayes](https://github.com/004Ajay/AI-DS/tree/main/Programs/NaiveBayes.py)
+
+* [Principal Component Analysis (PCA)](https://github.com/004Ajay/AI-DS/tree/main/Programs/PCA.py)
 
 * [Support Vector Machine (SVM)](https://github.com/004Ajay/AI-DS/tree/main/Programs/SVM.py)
 
