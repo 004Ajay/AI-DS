@@ -64,12 +64,17 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 <!-- ======================================================================================================= -->
 
+### Other Programs
+
+* [ROC - AUC](https://github.com/004Ajay/AI-DS/tree/main/OTHER%20PROGRAMS/ROC_AUC.ipynb)
+
+<!-- ======================================================================================================= -->
+
+
 <!-- 
 <br>
 
 ## Personal Works
-
-### Other Programs
 
 ---
 
