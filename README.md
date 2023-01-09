@@ -46,7 +46,7 @@ Data science: A field that uses scientific & computing methods to extract or ext
 
 * [Decision Tree](https://github.com/004Ajay/AI-DS/tree/main/Programs/DecisionTree.py)
 
-* [Hill Climbing Algorithm](https://github.com/004Ajay/AI-DS/tree/main/Programs/HillClimbingAlgo.py)
+* [Hill Climbing Algorithm](https://github.com/004Ajay/AI-DS/blob/main/Programs/HillClimbingAlgo.Py)
 
 * [Linear Regression](https://github.com/004Ajay/AI-DS/tree/main/Programs/linear_regression.py)
 
